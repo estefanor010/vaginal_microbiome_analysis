@@ -1,4 +1,4 @@
-links_analysis read me: there are 15 functions used to analyze the vaginal dataset 
+links_analysis.m read me: there are 15 functions used to analyze the vaginal dataset 
 
 the dataset comes from the paper:
 Temporal dynamics of the human vaginal microbiota
