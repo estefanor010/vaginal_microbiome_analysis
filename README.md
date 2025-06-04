@@ -1,3 +1,10 @@
+links_analysis read me: there are 15 functions used to analyze the vaginal dataset 
+
+the dataset comes from the paper:
+Temporal dynamics of the human vaginal microbiota
+
+link: https://pubmed.ncbi.nlm.nih.gov/22553250/
+
 1. check_significance
 – Input:
 score_list (3D array): List of scores for species pairs
